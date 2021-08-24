@@ -3,15 +3,14 @@ import logo from "./logo.svg";
 import "./App.css";
 import Title from "./Title";
 import List from "./List";
+import Footer from "./Footer";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <div className="App">
       <Title />
       <List />
-      <img src={logo} />
+      <Footer />
     </div>
   );
 }

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "jake",
+        "address": "250 E 200 N Springville UT",
+        "image": "real beardo.png"
+    },
+    {
+        "name": "Madi",
+        "address": "250 E 200 N Springville UT -ok",
+        "image": "whorse.png"
+    },
+    {
+        "name": "a name",
+        "address": "a second address",
+        "image": "dum.jpeg"
+    },
+    {
+        "name": "someone",
+        "address": "somewhere else",
+        "image": "book.jpeg"
+    },
+    {
+        "name": "idk",
+        "address": "egypt",
+        "image": "man.jpeg"
+    }
+]
