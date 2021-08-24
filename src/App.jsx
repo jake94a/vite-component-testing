@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Title from "./Title";
+import List from "./List";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -9,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <Title />
+      <List />
       <img src={logo} />
     </div>
   );
